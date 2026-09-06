@@ -1,2 +1,2 @@
 @echo off
-del /F /Q "%USERPROFILE%\script.bat"
+del /F /Q "%USERPROFILE%\kdo.bat"
